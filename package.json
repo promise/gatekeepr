@@ -1,0 +1,29 @@
+{
+  "name": "gatekeepr",
+  "description": "A bot that can protect your guild seamlessly, and also allow you to collect user information like their email, their connections and their guilds!",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promise/gatekeepr.git"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "autodoc": "node ../gatekeepr-docs/autodoc.js"
+  },
+  "author": "Promise <me@promise.solutions> (https://promise.solutions/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/promise/gatekeepr/issues"
+  },
+  "homepage": "https://github.com/promise/gatekeepr#readme",
+  "dependencies": {
+    "blapi": "^1.2.6",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "erlpack": "github:discordapp/erlpack",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "mongoose": "^5.8.11",
+    "node-fetch": "^2.6.0"
+  }
+}
