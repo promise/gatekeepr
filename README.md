@@ -1,3 +1,4 @@
+[![DeepScan grade](https://deepscan.io/api/teams/5752/projects/9525/branches/125096/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5752&pid=9525&bid=125096)
 [![Dependency Status](https://david-dm.org/promise/gatekeepr.svg)](https://david-dm.org/promise/gatekeepr)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/promise/gatekeepr.svg)](https://github.compromise/gatekeepr/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/promise/gatekeepr.svg)](https://github.com/promise/gatekeepr/pulls)
