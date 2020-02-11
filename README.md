@@ -7,7 +7,7 @@
 
 # Gatekeepr
 
-Gatekeepr is an advanced gatekeeper for your server. It can 
+Gatekeepr is an advanced gatekeeper for your server. It can protect your guild seamlessly, and also allow you to collect user information like their email, their connections and their guilds!
 
 ## Suggestions, bugs, feature requests
 
